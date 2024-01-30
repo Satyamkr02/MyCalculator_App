@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textview_background">#FDFCDC</color>
+<!--    <color name="Bittersweet">#F07167</color>-->
+    <color name="cerulean">#0081A7</color>
+    <color name="Light_Orange">#FED9B7</color>
+    <color name="Heading_color">#00AFB9</color>
+    <color name="dominant_color">#FFFFFF</color>     <!-- 60 % color -->
+    <color name="secondary_color">#FFB84C</color>     <!-- 30 % color -->
+    <color name="accent_color">#F06543</color>     <!-- 10 % color #F79327 -->
+    <color name="accent_color2">#731DD8</color> <!-- French Violet -->
+    <color name="notch_background">#EA906C</color>
+</resources>

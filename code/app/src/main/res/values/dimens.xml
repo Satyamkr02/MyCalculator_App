@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left">40dp</dimen>
+    <dimen name="margin_top">8dp</dimen>
+    <dimen name="margin_bottom">8dp</dimen>
+    <dimen name="elevation">48dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="result_width">300dp</dimen>
+    <dimen name="result_height">200dp</dimen>
+    <dimen name="text_size">40sp</dimen>
+    <dimen name="weight_1">1</dimen>
+</resources>
